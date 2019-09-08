@@ -1,0 +1,42 @@
+body {
+  background-color: burlywood;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 1.6rem;
+}
+
+.title {
+  font-family: "Source Code Pro", Monaco, monospace;
+  text-align: center;
+}
+
+img {
+  width: 55%;
+  height: 40%;
+  float: right;
+  margin: 0 0 5px 5px;
+}
+
+.transfer {
+  font-family: Noto Sans, sans-serif;
+  margin-left: 40px;
+  text-align: left;
+  padding: 10;
+
+}
+
+ul {
+  font-family: Luminari, fantasy;
+  color: rgb(10, 47, 151);
+  margin-bottom: 140px;
+}
+
+ol {
+  font-family: Bradley Hand, cursive;
+  list-style-type: upper-roman;
+  color: rgb(10, 47, 151)
+}
+
+p {
+  color: red;
+}
